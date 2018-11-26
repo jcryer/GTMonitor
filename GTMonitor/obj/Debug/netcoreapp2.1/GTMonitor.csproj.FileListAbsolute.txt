@@ -1,0 +1,11 @@
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\bin\Debug\netcoreapp2.1\GTMonitor.deps.json
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\bin\Debug\netcoreapp2.1\GTMonitor.runtimeconfig.json
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\bin\Debug\netcoreapp2.1\GTMonitor.runtimeconfig.dev.json
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\bin\Debug\netcoreapp2.1\GTMonitor.dll
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\obj\Debug\netcoreapp2.1\GTMonitor.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\obj\Debug\netcoreapp2.1\GTMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\obj\Debug\netcoreapp2.1\GTMonitor.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\obj\Debug\netcoreapp2.1\GTMonitor.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\bin\Debug\netcoreapp2.1\GTMonitor.pdb
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\obj\Debug\netcoreapp2.1\GTMonitor.dll
+C:\Users\Joseph\Desktop\GTMonitor\GTMonitor\obj\Debug\netcoreapp2.1\GTMonitor.pdb

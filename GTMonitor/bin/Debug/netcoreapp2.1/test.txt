@@ -1,0 +1,20 @@
+{
+  "username": "ChadBot",
+  "avatar_url": "https://wiki.gamedetectives.net/images/6/6b/Game_Theory_Logo.jpg",
+  "embeds": [
+    {
+      
+      "title": "Link Here",
+      "url": "https://www.thetheoristgateway.com/",
+      "description": "Page content changed. [Check it here!](https://www.thetheoristgateway.com/)",
+      "color": 15258703,
+      "image": {
+        "url": "http://pm1.narvii.com/6605/0c3187233b1af4074e2fd2a2dcfabbc8d9ba3ee6_00.jpg"
+      },
+      "footer": {
+        "text": "Hurry up!"
+      }
+    }
+  ]
+}
+
